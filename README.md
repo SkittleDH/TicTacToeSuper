@@ -1,4 +1,4 @@
-  
+![image alt](https://github.com/SkittleDH/TicTacToeSuper/blob/34374ca973ed06c7198433bb3063de56769c04c9/Banner.png)
 
 A modern twist on the timeless classic. Built with the idea of making something I’ve wanted since childhood 🎮.  
 
@@ -20,4 +20,4 @@ I noticed many people at school play random “dumb” games on their phones �
 ---
 
 ## Demo Link
- https://tic-tac-toe-super.vercel.app/
+[re-connect-three.vercel.app](https://re-connect-three.vercel.app/)
