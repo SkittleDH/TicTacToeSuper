@@ -21,3 +21,9 @@ I noticed many people at school play random “dumb” games on their phones �
 
 ## Demo Link
 [re-connect-three.vercel.app](https://re-connect-three.vercel.app/)
+
+---
+
+MIT License
+
+Copyright (c) 2025 EclAdler
